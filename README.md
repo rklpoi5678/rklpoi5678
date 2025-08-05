@@ -14,3 +14,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1lXf/giphy.gif" alt="Greetings GIF" width="300" />
+<!--<h1>안녕하세요! 김윤기입니다.</h1>
+<p>데이터 기반의 문제 해결에 집중하는 풀스택 개발자 김윤기입니다.</p> -->
+</div>
+
+💻 Tech Stack
+<div align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
+
+<!--📈 GitHub Stats
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=kyxiaxiang&show_icons=true&theme=onedark" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kyxiaxiang&theme=onedark" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=kyxiaxiang&theme=onedark" alt="GitHub Trophy" />
+</a>
+</div>-->
+
+🌐 Find me around the web
+<div align="center">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+<a href="[https://velog.io/@YOUR_VELOG_ID](https://portfolio-six-nu-90.vercel.app/)">
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=VIM&logoColor=white" alt="Velog Badge" />
+</a>
+</div>
+
+📊 Visitor Count
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rklpoi5678&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+</div>

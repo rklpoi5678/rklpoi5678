@@ -21,14 +21,9 @@ Here are some ideas to get you started:
 </div>
 
 💻 Tech Stack
-<div align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,remix,babel,tailwind,bun,pnpm,prisma,mysql,sqlite,postgres,linux,arch,bash,docker,git,postman,python,nginx,aws,cloudflare,workers,pr&perline=12">
+</p>
 
 <!--📈 GitHub Stats
 <div align="center">

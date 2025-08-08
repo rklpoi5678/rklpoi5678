@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>데이터 기반의 문제 해결에 집중하는 풀스택 개발자 김윤기입니다.</p> -->
 </div>
 
-💻 Tech Stack
+💻
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,svelte,nextjs,remix,babel,tailwind,bun,pnpm,prisma,mysql,sqlite,postgres,linux,arch,bash,docker,git,postman,python,nginx,aws,cloudflare,workers,pr&perline=12">
 </p>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
-<a href="[https://velog.io/@YOUR_VELOG_ID](https://portfolio-six-nu-90.vercel.app/)">
+<a href="[https://portfolio-six-nu-90.vercel.app/](https://portfolio-six-nu-90.vercel.app/)">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=VIM&logoColor=white" alt="Velog Badge" />
 </a>
 </div>

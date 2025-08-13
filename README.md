@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 💻
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,svelte,nextjs,remix,babel,tailwind,bun,pnpm,prisma,mysql,sqlite,postgres,linux,arch,bash,docker,git,postman,python,nginx,aws,cloudflare,workers,vim,pr&perline=12">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,svelte,nextjs,remix,babel,tailwind,bun,pnpm,prisma,mysql,sqlite,postgres,linux,arch,bash,docker,git,postman,python,nginx,aws,cloudflare,workers,vim,pr,ps&perline=12">
 </p>
 
 <!--📈 GitHub Stats

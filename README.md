@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>데이터 기반의 문제 해결에 집중하는 풀스택 개발자 김윤기입니다.</p> -->
 </div>
 
-💻
+💻 be interested in
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,svelte,nextjs,remix,babel,tailwind,bun,pnpm,prisma,mysql,sqlite,postgres,linux,arch,bash,docker,git,postman,python,nginx,aws,cloudflare,workers,vim,pr,ps&perline=12">
 </p>

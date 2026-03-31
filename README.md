@@ -23,5 +23,5 @@
 </div> -->
 
 
-<img src="https://raw.githubusercontent.com/rklpoi5678/rklpoi5678/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/rklpoi5678/rklpoi5678/output/snake.svg" alt="Snake animation" /> -->
 
